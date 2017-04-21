@@ -1,6 +1,5 @@
 import findAllQuotes from './handlers/all-quotes';
 import findByTagId from './handlers/tag-id';
-import filterOffDay from './handlers/off-day';
 import findByObjectId from './handlers/object-id';
 import getDailyQuotes from './handlers/daily';
 import skipQuotes from './handlers/limitQuotes';
