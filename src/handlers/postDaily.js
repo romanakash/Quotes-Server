@@ -11,14 +11,12 @@ const postDaily = (request, reply) => {
         creationDate: data.creationDate
     }
     insertDaily(daily);
-    console.log("Succesfully added to mongodb");
     return reply(daily);
 }
 
 const insertDaily = (obj) => {
     const daily = mongojs.db().collection('daily');
     daily.insert(obj)
-    console.log(obj);
 }
 
 export default postDaily;

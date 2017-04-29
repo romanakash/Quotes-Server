@@ -1,0 +1,115 @@
+{"_id":{"$oid":"5878e140ff65301712e7e32e"},"value":"You see, but you do not observe","author":"Sherlock Holmes","tag":"Fiction","tagId":5}
+{"_id":{"$oid":"5880ace2ef9bcf04fd236062"},"value":"Hello, World","author":"computer","tag":"Programming","tagId":14}
+{"_id":{"$oid":"5880ca9aef9bcf04fd236063"},"value":"Life is 10% what happens to you and 90% how you react to it","author":"Charles R. Swindoll ","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"5880cc48ef9bcf04fd236064"},"value":"Keep your eyes on the stars, and your feet on the ground","author":"Theodore Roosevelt","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"5880d6f3952ab80a04e4798d"},"value":"Do what you can, with what you have, where you are","author":"Theodore Roosevelt","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"58821a85901255087a8be161"},"value":"That's one small step for a man, one giant leap for mankind","author":"Neil Armstrong","tag":"Space","tagId":18}
+{"_id":{"$oid":"58821c2f901255087a8be162"},"value":"Not just beautiful, though--the stars are like the trees in the forest, alive and breathing. And they're watching me","author":"Haruki Murakami","tag":"Space","tagId":18}
+{"_id":{"$oid":"58821caf901255087a8be163"},"value":"I would like to die on Mars. Just not on Impact","author":"Elon Musk","tag":"Space","tagId":18}
+{"_id":{"$oid":"58821d42901255087a8be164"},"value":"Language is a virus from outer space","author":"William S. Burroughs","tag":"Literature","tagId":24}
+{"_id":{"$oid":"58821d9c901255087a8be165"},"value":"Although the life of a person is a land full of thorns and weeds, there is always a space in which the good seed can grow. You have to trust God ","author":"Pope Francis","tag":"Religion","tagId":15}
+{"_id":{"$oid":"58877796aa2a9f06abbb57b6"},"value":"The science of today is the technology of tomorrow","author":"Edward Teller","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877849aa2a9f06abbb57b7"},"value":"It has been appallingly obvious that our technology has exceeded our humanity","author":"Albert Einstein","tag":"Technology","tagId":21}
+{"_id":{"$oid":"588778ccaa2a9f06abbb57b8"},"value":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important","author":"Bill Gates","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877971aa2a9f06abbb57ba"},"value":"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools. they'll do wonderful things with them","author":"Steve Jobs","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877a03aa2a9f06abbb57bb"},"value":"We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology","author":"Carl Sagan","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877a90aa2a9f06abbb57bc"},"value":"The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life","author":"Andrew Brown","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877be0aa2a9f06abbb57be"},"value":"Men have become tools of their tools","author":"Henry David Thoreau","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877c51aa2a9f06abbb57bf"},"value":"Our technological powers increase, but the side effects and potential hazards also escalate","author":"Alvin Toffer","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877c9faa2a9f06abbb57c0"},"value":"The technology is just so far gone. It's just like back in the day you needed a suitcase just to have a cell phone. The battery was so heavy, it was like carrying a gallon of soda around with you all day ","author":"Jam Master Jay","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877db1aa2a9f06abbb57c1"},"value":"Any sufficiently advanced technology is indistinguishable from magic","author":"Arthur C. Clarke","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877e35aa2a9f06abbb57c2"},"value":"I'm interested in things that change the world or that affect the future and wondrous, new technology where you see it, and you're like, 'Wow, how did that even happen? How is that possible?'","author":"Elon Musk","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877e97aa2a9f06abbb57c3"},"value":"We've arranged a civilization in which most crucial elements profoundly depend on science and technology","author":"Carl Sagan","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877f1caa2a9f06abbb57c4"},"value":"The technology keeps moving forward, which makes it easier for the artists to tell their stories and paint the pictures they want","author":"George Lucas","tag":"Technology","tagId":21}
+{"_id":{"$oid":"58877f6aaa2a9f06abbb57c5"},"value":"Every aspect of human technology has a dark side, including the bow and arrow","author":"Margaret Atwood","tag":"Technology","tagId":21}
+{"_id":{"$oid":"5887802daa2a9f06abbb57c7"},"value":"Technology gives us the facilities that lessen the barriers of time and distance - the telegraph and cable, the telephone, radio, and the rest","author":"Emily Greene Balch","tag":"Technology","tagId":21}
+{"_id":{"$oid":"588e0470b5a4310513465254"},"value":"Be not afraid of life. Believe that life is worth living, and your belief will help create the fact","author":"William James","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e0515b5a4310513465255"},"value":"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me'.","author":"Erna Bombeck","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e0564b5a4310513465256"},"value":"The quickest way to double your money is to fold it over and put it back in your pocket","author":"Will Rogers","tag":"Business","tagId":3}
+{"_id":{"$oid":"588e05afb5a4310513465257"},"value":"Even if you’re on the right track, you’ll get run over if you just sit there","author":"Will Rogers","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e05f1b5a4310513465258"},"value":"When I hear somebody sigh, ‘Life is hard,’ I am always tempted to ask, ‘Compared to what'?","author":"Sydney Harris","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e064eb5a4310513465259"},"value":"Nurture your mind with great thoughts. To believe in the heroic makes heroes","author":"Benjamin Disraeli","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e068bb5a431051346525a"},"value":"The real opportunity for success lies within the person and not in the job","author":"Zig Ziglar","tag":"Success","tagId":20}
+{"_id":{"$oid":"588e06fcb5a431051346525b"},"value":"Look at the sparrows; they do not know what they will do in the next moment. Let us literally live from moment to moment","author":"Mahatma Gandhi","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e0730b5a431051346525c"},"value":"Luck is a dividend of sweat. The more you sweat, the luckier you get","author":"Ray Kroc","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e076bb5a431051346525d"},"value":"When I let go of what I am, I become what I might be","author":"Lao Tzu","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e07a1b5a431051346525e"},"value":"You may find the worst enemy or best friend in yourself","author":"English Proverb","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e0d60282ad905ae6c82b8"},"value":"The best preparation for tomorrow is doing your best today","author":"H. Jackson Brown, Jr.","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e0e51282ad905ae6c82b9"},"value":"There are two ways of spreading the light: to be the candle or the mirror that reflects it","author":"Edith Wharton","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e0eb0282ad905ae6c82ba"},"value":"In order to succeed, we must first believe that we can","author":"Nikos Kazantzakis","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e0f10282ad905ae6c82bb"},"value":"No bird soars too high if he soars with his own wings","author":"William Blake","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e0f78282ad905ae6c82bc"},"value":"Keep your eyes on the stars, and your feet on the ground","author":"Theodore Roosevelt","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e0fd0282ad905ae6c82be"},"value":"Always do your best. What you plant now, you will harvest later","author":"Og Mandino","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e1014282ad905ae6c82bf"},"value":"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence ","author":"Helen Keller","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e107d282ad905ae6c82c0"},"value":"Knowing is not enough; we must apply. Willing is not enough; we must do","author":"Johann Wolfgang von Goethe","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e10bd282ad905ae6c82c1"},"value":"Quality is not an act, it is a habit","author":"Aristotle","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e1148282ad905ae6c82c2"},"value":"Only I can change my life. No one can do it for me","author":"Carol Burnett","tag":"Life","tagId":10}
+{"_id":{"$oid":"588e1185282ad905ae6c82c3"},"value":"Failure will never overtake me if my determination to succeed is strong enough","author":"Og Mandino","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e13db4b59830762627ca2"},"value":"It always seems impossible until it's done","author":"Nelson Mandela","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e14154b59830762627ca3"},"value":"With the new day comes new strength and new thoughts","author":"Eleanor Roosevelt","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e14764b59830762627ca4"},"value":"It does not matter how slowly you go as long as you do not stop","author":"Confucius","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e14d54b59830762627ca5"},"value":"We should not give up and we should not allow the problem to defeat us ","author":"A. P. J. Abdul Kalam","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e15534b59830762627ca6"},"value":"The secret of getting ahead is getting started","author":"Mark Twain","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e15884b59830762627ca7"},"value":"Accept the challenges so that you can feel the exhilaration of victory","author":"George S. Patton","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e15e34b59830762627ca8"},"value":"Setting the steps is the first step in turning the invisible into the visible ","author":"Tony Robbins","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"588e163a4b59830762627ca9"},"value":"If you can dream it, you can do it","author":"Walt Disney","tag":"Inspiration","tagId":7}
+{"_id":{"$oid":"58a87ac7cf34211c3be2adf5"},"value":"Where thou art, that is home","author":"Emily Dickinson","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87ac7cf34211c3be2adf6"},"value":"The purpose of art is washing the dust life off our souls","author":"Pablo Piccaso","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87ac7cf34211c3be2adf7"},"value":"Youth is the gift of nature, but age is a work of art","author":"Stanislaw Jerzy Lec","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87ac7cf34211c3be2adf8"},"value":"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.","author":"Scott Adams","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87ac7cf34211c3be2adf9"},"value":"The world is a canvas to our imagination","author":"Henry David Thoreau","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87ac7cf34211c3be2adfa"},"value":"Next to the Word of God, the noble art of music is the greatest treasure in the world.","author":"Martin Luther","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87b3fcf34211c3be2adfb"},"value":"Photograph: a picture painted by the sun without instruction in art","author":"Ambrose Bierce","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87cef34557d1ca77fe372"},"value":"I am enough of an artist to draw freely upon my imagination","author":"Albert Einstein","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0a34557d1ca77fe373"},"value":"The supreme art of war is to subdue the enemy without fighting","author":"Sun Tzu","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0a34557d1ca77fe374"},"value":"Vision is the art of seeing what is invisible to others","author":"Jonathan Swift","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0a34557d1ca77fe375"},"value":"Don't you know that every perfect life would mean the end of art?","author":"Robert Musil","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0a34557d1ca77fe376"},"value":"Every artist dips his brush in his own soul, and paints his own nature into his pictures","author":"Henry Ward Beecher","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0a34557d1ca77fe377"},"value":"The true work of art is but a shadow of the divine perfection","author":"Michaelangelo","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0b34557d1ca77fe378"},"value":"Art is a harmony parallel with nature","author":"Paul Cezanne","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a87f0b34557d1ca77fe379"},"value":"The art of art, the glory of expression an the sunshine of the light of letters, is simplicity","author":"Walt Whitman","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe37a"},"value":"Every painting is a voyage into sacred harbour","author":"Giotto di Bondone","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe37b"},"value":"An artist cannot fail; it is a success to be one","author":"Charles Horton Cooley","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe37c"},"value":"Every child is an artist. The problem is how to remain an artist once he grows up","author":"Pablo Picasso","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe37d"},"value":"Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen","author":"Leonardo da Vinci","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe37e"},"value":"Art is the lie that enables us to realize the truth","author":"Pablo Picasso","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe37f"},"value":"A painter should begin every canvas with a wash of black, because all things in nature are dark except where exposed by the light","author":"Leonardo da Vinci","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe380"},"value":"I dream my painting and I paint my dream","author":"Vincent Van Gogh","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe381"},"value":"If you ask me what I came to do in this world, I, an artist, will answer you: I am here to live out loud","author":"Emile Zola","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe382"},"value":"Art and love are the same thing: It’s the process of seeing yourself in things that are not you","author":"Chuck Klosterman","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8811934557d1ca77fe383"},"value":"Art enables us to find ourselves and lose ourselves at the same time","author":"Thomas Merton","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8819c34557d1ca77fe384"},"value":"Art washes away from the soul the dust of everyday life","author":"Pablo Picasso","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8819c34557d1ca77fe385"},"value":"Art is not what you see, but what you make others see","author":"Edgar Degas","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8819c34557d1ca77fe386"},"value":"Creativity takes courage","author":"Henri Matisse","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8819c34557d1ca77fe387"},"value":"Art is the only serious thing in the world. And the artist is the only person who is never serious","author":"Oscar Wilde","tag":"Art","tagId":1}
+{"_id":{"$oid":"58a8819c34557d1ca77fe388"},"value":"You might as well ask an artist to explain his art, or ask a poet to explain his poem. It defeats the purpose. The meaning is only clear thorough the search","author":"Rick Riordan","tag":"Art","tagId":1}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e054"},"value":"There are two best days in a person's life - the day we are born and the day we discover why","author":"William Barclay","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e055"},"value":"Cakes are special. Every birthday, every celebration ends with something sweet, a cake, and people remember. It's all about the memories.","author":"Buddy Valastro","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e056"},"value":"You don't get older, you get better.","author":"Shirley Bassey","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e057"},"value":"The best way to remember your wife's birthday is to forget it once.","author":"E. Joseph Cossman","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e058"},"value":"The more you praise and celebrate your life, the more there is in life to celebrate.","author":"Oprah Winfrey","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e059"},"value":"Don't just count your years, make your years count","author":"George Meredith","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e05a"},"value":"You know you are getting old when the candles cost more than the cake","author":"Bob Hope","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e05b"},"value":"Today is the oldest you've ever been and youngest you'll ever be again","author":"Eleanor Roosevelt","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b43e0d4c9e1c0f1343e05c"},"value":"Today you are you! That is truer than true! There is no one alive who is you-er than you!","author":"Dr. Seuss","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e05d"},"value":"I hope your special day will bring you lots of happiness, love and fun. You deserve them a lot. Enjoy!","author":"Birthday Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e05e"},"value":"Have a wonderful birthday. I wish your every day to be filled with lots of love, laughter, happiness and the warmth of sunshine.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e05f"},"value":"May your coming year surprise you with the happiness of smiles, the feeling of love and so on. I hope you will find plenty of sweet memories to cherish forever. Happy birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e060"},"value":"On your special day, I wish you good luck. I hope this wonderful day will fill up your heart with joy and blessings. Have a fantastic birthday, celebrate the happiness on every day of your life. Happy Birthday!!","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e061"},"value":"May this birthday be filled with lots of happy hours and also your life with many happy birthdays, that are yet to come. Happy birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e062"},"value":"Let’s light the candles and celebrate this special day of your life. Happy birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e063"},"value":"You are very special and that’s why you need to float with lots of smiles on your lovely face. Happy birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e064"},"value":"Special day, special person and special celebration. May all your dreams and desires come true in this coming year. Happy birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e065"},"value":"You are my true friend. You were always with me, you supported me, you boosted me up when I was down. Thanks for being such a friend of mine. Happy birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e066"},"value":"Let your all the dreams to be on fire and light your birthday candles with that. Have a gorgeous birthday.","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e067"},"value":"Birthday come around every year but friends like you only come in a lifetime I'm so glad you come into my life.\nBest Wishes on your special day","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e068"},"value":"Our birthdays are feathers in the broad wing of time","author":"Jean Paul Richter","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e069"},"value":"A birthday is like a new year and my wish for you is a great year full of happiness and sunshine!","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e06a"},"value":"May happiness and sunshine fill your day not only on your birthday but the whole year through","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e06b"},"value":"A birthday is a time to reflect on the year gone by, but to also set your goals for the upcoming year","author":"Catherine Pulsifier","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e06c"},"value":"So happy another year has found you, may it be the best year yet","author":"Julie Hebert","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441524c9e1c0f1343e06d"},"value":"Men are like wine. Some turn to vinegar, but the best improve with age","author":"Pope John XXIII","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441ee4c9e1c0f1343e06e"},"value":"If we had one wish for you on this special day it would be: May the best of your past be the worst of your future","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441ee4c9e1c0f1343e06f"},"value":"Birthdays are good for you. Statistics show that the people who have the most live the longest","author":"Larry Lorenzoni","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b441ee4c9e1c0f1343e070"},"value":"May you have miles of smiles in the coming year. We wish only the best for you today and throughout the coming year","author":"Wishes","tag":"Birthday","tagId":2}
+{"_id":{"$oid":"58b4424d4c9e1c0f1343e074"},"value":"Our birthdays are feathers in the broad wing of time","author":"Jean Paul","tag":"Birthday","tagId":2}

@@ -4,19 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "hapi": "^16.1.0",
     "hapi-mongojs": "^3.0.1",
-    "hapi-react-views": "^9.2.1",
     "moment": "^2.17.1",
     "mongodb": "^2.2.21",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
     "vision": "^4.1.1"
   },
   "devDependencies": {

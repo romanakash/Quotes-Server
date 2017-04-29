@@ -9,14 +9,12 @@ const postQuote = (request, reply) => {
         tagId: data.tags.tagId,
     }
     insertQuote(quote);
-    console.log("Succesfully added to mongodb");
     return reply(quote);
 }
 
 const insertQuote = (obj) => {
     const quotes = mongojs.db().collection('quotes');
     quotes.insert(obj)
-    console.log(obj);
 }
 
 export default postQuote;

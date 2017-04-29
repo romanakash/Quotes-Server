@@ -28,6 +28,5 @@ server.register([Vision, {           // plugins here
         if (err) {
             console.error(err);
         }
-        console.log(`Server was started at ${server.info.uri}`);
     });
 });
