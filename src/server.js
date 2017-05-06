@@ -6,7 +6,7 @@ import dbOpts from './mongo-init';
 
 const server = new Hapi.Server();   // server defined here
 
-var port = process.env.PORT || 3000;
+var port = process.env.OPENSHIFT_NODEJS_PORT || 8080;
 console.log(port)
 
 server.connection({
