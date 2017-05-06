@@ -6,9 +6,11 @@ import dbOpts from './mongo-init';
 
 const server = new Hapi.Server();   // server defined here
 
+let port = process.env.PORT || 3000;
+
 server.connection({
     host: 'localhost',
-    port: process.env.PORT || 3000
+    port: port
 });
 
 server.register([Vision, {           // plugins here
