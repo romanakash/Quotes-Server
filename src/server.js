@@ -27,7 +27,7 @@ server.register([Vision, {           // plugins here
     }
 
     server.start(err => {           // server start here
-        console.log('Our app is running on http://localhost:' + process.env.PORT);
+        console.log('Our app is running on http://localhost:' + OPENSHIFT_NODEJS_PORT);
         if (err) {
             console.error(err);
         }
