@@ -9,8 +9,6 @@ const server = new Hapi.Server();   // server defined here
 var port = process.env.OPENSHIFT_NODEJS_PORT || 8080;
 var ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
 
-console.log(port)
-
 server.connection({
     host: 'localhost',
     port: port,
@@ -30,7 +28,8 @@ server.register([Vision, {           // plugins here
     }
 
     server.start(err => {           // server start here
-        console.log('Our app is running on http://localhost:' + OPENSHIFT_NODEJS_PORT);
+        console.log('Our app is running on http://localhost:' + port);
+        console.log(ip_address);
         if (err) {
             console.error(err);
         }
