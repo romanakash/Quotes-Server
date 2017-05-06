@@ -4,7 +4,7 @@
   "description": "A server for quotes app",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nf start api",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roman Akash",
