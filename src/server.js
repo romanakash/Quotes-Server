@@ -6,13 +6,11 @@ import dbOpts from './mongo-init';
 
 const server = new Hapi.Server();   // server defined here
 
-var port = process.env.OPENSHIFT_NODEJS_PORT || 8080;
-var ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
+var port = process.env.port || 8080;
 
 server.connection({
     host: 'localhost',
     port: port,
-    address: ip_address
 });
 
 server.register([Vision, {           // plugins here
@@ -29,7 +27,6 @@ server.register([Vision, {           // plugins here
 
     server.start(err => {           // server start here
         console.log('Our app is running on http://localhost:' + port);
-        console.log(ip_address);
         if (err) {
             console.error(err);
         }
