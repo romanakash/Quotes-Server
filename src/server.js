@@ -6,7 +6,7 @@ import dbOpts from './mongo-init';
 
 const server = new Hapi.Server();   // server defined here
 
-var port = process.env.port || 8080;
+var port = process.env.PORT || 8080;
 
 server.connection({
     host: 'localhost',
@@ -26,7 +26,7 @@ server.register([Vision, {           // plugins here
     }
 
     server.start(err => {           // server start here
-        console.log('Our app is running on http://localhost:' + port);
+        console.log('This the server url http://localhost:' + port);
         if (err) {
             console.error(err);
         }
