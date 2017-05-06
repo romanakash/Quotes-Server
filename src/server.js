@@ -24,7 +24,7 @@ server.register([Vision, {           // plugins here
     }
 
     server.start(err => {           // server start here
-        console.log('Our app is running on http://localhost:' + port);
+        console.log('Our app is running on http://localhost:' + process.env.PORT);
         if (err) {
             console.error(err);
         }
