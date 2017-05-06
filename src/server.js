@@ -3,7 +3,6 @@ import mongojs from 'hapi-mongojs';
 import Vision from 'vision';
 import routes from './routes';
 import dbOpts from './mongo-init';
-const HapiReactViews = require('hapi-react-views');
 
 const server = new Hapi.Server();   // server defined here
 
