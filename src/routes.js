@@ -2,6 +2,7 @@ import findAllQuotes from './handlers/all-quotes';
 import findByTagId from './handlers/tag-id';
 import findByObjectId from './handlers/object-id';
 import getDailyQuotes from './handlers/daily';
+import getAuthorNames from './handlers/getAuthorNames'
 import skipQuotes from './handlers/limitQuotes';
 import postQuote from './handlers/post';
 import postDaily from './handlers/postDaily';
@@ -39,6 +40,11 @@ const routes = [
         method: 'GET',
         path: '/daily',
         handler: getDailyQuotes
+    },
+    {
+        method: 'GET',
+        path: '/authors',
+        handler: getAuthorNames
     },
     {
         method: 'POST',
