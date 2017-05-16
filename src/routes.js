@@ -38,7 +38,7 @@ const routes = [
     },
     {
         method: 'GET',
-        path: '/daily',
+        path: '/daily/{month}',
         handler: getDailyQuotes
     },
     {
@@ -78,10 +78,6 @@ const routes = [
                     json: Joi.object().keys({
                         value: Joi.string().required(),
                         author: Joi.string().required(),
-                        tags: Joi.object().keys({
-                            tag: Joi.string().required(),
-                            tagId: Joi.number().min(1).max(50).required(),
-                        }),
                         day: Joi.string(),
                         creationDate: Joi.string().required(),
                     })

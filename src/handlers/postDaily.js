@@ -5,8 +5,6 @@ const postDaily = (request, reply) => {
     let daily = {
         value: data.value,
         author: data.author,
-        tag: data.tags.tag,
-        tagId: data.tags.tagId,
         day: data.day,
         creationDate: data.creationDate
     }
