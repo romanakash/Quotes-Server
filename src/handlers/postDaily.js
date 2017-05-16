@@ -6,10 +6,10 @@ const postDaily = (request, reply) => {
         value: data.value,
         author: data.author,
         day: data.day,
-        creationDate: data.creationDate
+        date: data.date
     }
     insertDaily(daily);
-    return reply(daily);
+    reply(daily);
 }
 
 const insertDaily = (obj) => {

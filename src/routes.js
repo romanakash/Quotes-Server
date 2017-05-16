@@ -79,7 +79,7 @@ const routes = [
                         value: Joi.string().required(),
                         author: Joi.string().required(),
                         day: Joi.string(),
-                        creationDate: Joi.string().required(),
+                        date: Joi.date().required(),
                     })
                 }
             },
