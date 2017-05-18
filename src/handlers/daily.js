@@ -4,10 +4,11 @@ import moment from 'moment';
 const getDailyQuotes = (request, reply) => {
     const daily = mongojs.db().collection('daily');
     const year = moment().year();
-    const days = moment().daysInMonth();
-    let month = request.params.month;
+    let month = parseInt(request.params.month, 10);
+    let f = new Date(year, month, 1);
+    let l = new Date(year, month + 1, 1);
     daily.find({
-        date: { $gte: new Date(year, month, 1), $lte: new Date(year, month, days)}
+        date: { $gte: f, $lt: l}
     },  (err, dailies) => {
             if (err) {
                 console.error(err);
