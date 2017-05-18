@@ -7,7 +7,7 @@ const getDailyQuotes = (request, reply) => {
     const days = moment().daysInMonth();
     let month = request.params.month;
     daily.find({
-        date: { $gte: new Date(year, month, 1), $lt: new Date(year, month, days)}
+        date: { $gte: new Date(year, month, 1), $lte: new Date(year, month, days)}
     },  (err, dailies) => {
             if (err) {
                 console.error(err);
