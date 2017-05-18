@@ -14,6 +14,6 @@ const getDailyQuotes = (request, reply) => {
             }
         reply(dailies)
     })
-};
+}
 
 export default getDailyQuotes;
